@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Greeting", "Intro and Basic Syntax - Lab\01_Greeting.csproj", "{80DC861E-8D4D-43DC-90BF-19FF518CBCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ Add Two Numbers", "ConsoleApp1\02_ Add Two Numbers.csproj", "{EA230138-CD91-4F09-8784-91605FAE1A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Employee Data", "03_Employee Data\03_Employee Data.csproj", "{0DCF3CCA-09A2-46C9-AEB1-46E72E1A7311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DC861E-8D4D-43DC-90BF-19FF518CBCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DC861E-8D4D-43DC-90BF-19FF518CBCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DC861E-8D4D-43DC-90BF-19FF518CBCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DC861E-8D4D-43DC-90BF-19FF518CBCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA230138-CD91-4F09-8784-91605FAE1A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA230138-CD91-4F09-8784-91605FAE1A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA230138-CD91-4F09-8784-91605FAE1A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA230138-CD91-4F09-8784-91605FAE1A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCF3CCA-09A2-46C9-AEB1-46E72E1A7311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCF3CCA-09A2-46C9-AEB1-46E72E1A7311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCF3CCA-09A2-46C9-AEB1-46E72E1A7311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCF3CCA-09A2-46C9-AEB1-46E72E1A7311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
